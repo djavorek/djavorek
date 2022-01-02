@@ -1,5 +1,4 @@
-# Hello there 👋
-## 🎄 Have a wonderful Christmas and Happy New Year ✨
+## Hello there 👋
 
 ## Take a look at my repositories, and remember:
 - This is my free-time Github, everything you see is just for fun. 🤷‍♂️
